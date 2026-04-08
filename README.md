@@ -1,2 +1,2 @@
-# Smart-Surviellance
-A Web Based Real-Time Surviellance 
+crowd detection 
+for crowd monitoring in malls and stadiums
